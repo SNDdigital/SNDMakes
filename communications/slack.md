@@ -18,7 +18,7 @@
 - _lightning-talks
 - organizers
 
-### integrations:
+### Integrations:
 - giphy
 - slackbot
 - google drive
