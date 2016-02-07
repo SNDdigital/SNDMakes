@@ -1,4 +1,4 @@
-# SNDMakes
+# SNDMakes Chicago
 
 ## Team Argyle
 
